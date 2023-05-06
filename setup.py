@@ -59,7 +59,7 @@ setup(
     url='https://github.com/OpenVoiceOS/ovos-audio2ipa-plugin-allosaurus',
     author='JarbasAi',
     author_email='jarbasai@mailfence.com',
-    license='Apache-2.0',
+    license='GPL3',
     packages=['ovos_audio2ipa_plugin_allosaurus'],
     install_requires=required("requirements.txt"),
     zip_safe=True,
